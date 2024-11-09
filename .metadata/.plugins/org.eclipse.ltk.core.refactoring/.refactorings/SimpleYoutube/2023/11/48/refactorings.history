@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;SimpleYoutube/src/assets/png-clipart-youtube-play-button-computer-icons-youtube-youtube-logo-angle-rectangle-thumbnail.png&apos; to &apos;ytbicon.png&apos;" description="Rename resource &apos;png-clipart-youtube-play-button-computer-icons-youtube-youtube-logo-angle-rectangle-thumbnail.png&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/assets/png-clipart-youtube-play-button-computer-icons-youtube-youtube-logo-angle-rectangle-thumbnail.png" name="ytbicon.png" stamp="1701314170073" updateReferences="true"/>
+</session>
